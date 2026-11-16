@@ -243,5 +243,54 @@
     "description": "Soft edgeless microfiber towels suited to final wipe-downs, quick detailers and delicate painted surfaces.",
     "link": "https://www.amazon.com/dp/B095KYMST1/?tag=fitzgeraldcla-20",
     "image": "/images/garage/griot-s-garage-pfm-edgeless-detailing-towels.png"
+  },
+  {
+    "name": "Lisle 24680 Spill-Free Funnel",
+    "category": "Mechanical Tools",
+    "description": "A funnel kit with adapters that fits the radiator neck so you can fill and burp the cooling system without spilling coolant everywhere. Handy after any cooling-system work on an older car.",
+    "link": "https://www.amazon.com/dp/B00A6AS6LY/?tag=fitzgeraldcla-20",
+    "image": "https://images.carid.com/lisle/items/24680.jpg"
+  },
+  {
+    "name": "DEWALT DCF911B 20V MAX 1/2-Inch Impact Wrench (Tool Only)",
+    "category": "Mechanical Tools",
+    "description": "A compact cordless 1/2-inch impact wrench, rated 250 ft-lb tightening and 400 ft-lb breakaway torque. Tool only — battery and charger are sold separately, so it makes the most sense if you are already on DEWALT 20V MAX.",
+    "link": "https://www.amazon.com/dp/B09HVXKJF6/?tag=fitzgeraldcla-20",
+    "image": "https://elitetruck.com/cdn/shop/files/DCF911BImage1_798x798.jpg?v=1766435440"
+  },
+  {
+    "name": "Knipex 87 01 250 Cobra Water Pump Pliers, 10-Inch",
+    "category": "Mechanical Tools",
+    "description": "A 10-inch Cobra water-pump pliers with a push-button adjustment that locks onto the pipe or fitting. German-made, and the kind of pliers that earns its keep around hose clamps and fittings.",
+    "link": "https://www.amazon.com/dp/B000X4J2H0/?tag=fitzgeraldcla-20",
+    "image": "https://m.media-amazon.com/images/I/61KBfFCxKSL._AC_US1000_.jpg"
+  },
+  {
+    "name": "NOCO GENIUS2 2A Smart Battery Charger & Maintainer",
+    "category": "Battery & Storage",
+    "description": "A 2-amp smart charger and maintainer for 6V and 12V batteries, including lithium and AGM. A step up from the GENIUS1 for cars that sit a while between drives.",
+    "link": "https://www.amazon.com/dp/B07W6B987F/?tag=fitzgeraldcla-20",
+    "image": "https://m.media-amazon.com/images/I/81dOFbll55L.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg"
+  },
+  {
+    "name": "Battery Tender Junior 12V 750mA Charger & Maintainer",
+    "category": "Battery & Storage",
+    "description": "A small 750mA 12V charger and maintainer for lead-acid batteries from 3 to 30Ah. Best suited to motorcycles, ATVs and smaller batteries — too small to recharge a full-size car battery quickly, but fine for keeping one topped up.",
+    "link": "https://www.amazon.com/dp/B000CITK8S/?tag=fitzgeraldcla-20",
+    "image": "https://m.media-amazon.com/images/I/61nddgtbkaL._AC_US1000_.jpg"
+  },
+  {
+    "name": "STA-BIL Storage Fuel Stabilizer, 32 oz (22214)",
+    "category": "Garage Essentials",
+    "description": "Keeps gasoline fresh for up to 24 months in a stored car, so you do not have to drain the tank before winter. One ounce treats up to 2.5 gallons.",
+    "link": "https://www.amazon.com/dp/B000B68V6I/?tag=fitzgeraldcla-20",
+    "image": "https://www.automegastore.com.au/cdn/shop/files/22214.png?v=1728440161"
+  },
+  {
+    "name": "Griot's Garage G9 Random Orbital Polisher 10901",
+    "category": "Detailing & Preservation",
+    "description": "A 1000-watt dual-action random orbital polisher with a 6-inch backing plate. The random orbit makes it hard to burn paint, which is what you want in a first polisher. Bare tool — pads, compound and polish are sold separately.",
+    "link": "https://www.amazon.com/dp/B089JFDKRZ/?tag=fitzgeraldcla-20",
+    "image": "https://contentassets.autozone.com/product_image/USA/14318/FBWX/10901/10901-01.jpg"
   }
 ]

@@ -33,6 +33,7 @@ export const siteConfig = {
   social: {
     facebook: "https://www.facebook.com/profile.php?id=61594520112307",
     instagram: "https://instagram.com/fitzgeraldclassics",
+    youtube: "https://www.youtube.com/@FitzgeraldClassics",
   },
 
   // "{year}" is replaced with the current year.

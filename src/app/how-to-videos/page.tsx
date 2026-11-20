@@ -4,6 +4,7 @@ import { getPage, getVideos } from "@/lib/content";
 import { markdownToHtml } from "@/lib/markdown";
 import { buildMetadata } from "@/lib/seo";
 import { youtubeThumb } from "@/lib/youtube";
+import { siteConfig } from "@site-config";
 
 type VideosPage = { seoTitle: string; seoDescription: string; heading: string; watchLabel: string };
 const page = () => getPage<VideosPage>("how-to-videos");
@@ -19,6 +20,13 @@ export default function VideosPage() {
     <section className="px-[20px] pb-[80px] pt-[48px] md:px-[23px] md:pb-[120px] md:pt-[88px]">
       <h1 className="text-center font-serif text-[36px] font-bold leading-[1.1] md:text-[clamp(2.25rem,4.11vw,3.7rem)]">{p.heading}</h1>
       <div className="mt-[20px] space-y-[24px] text-[16px] leading-[1.5] md:mt-[22px] md:space-y-[34px] md:text-lead" dangerouslySetInnerHTML={{ __html: markdownToHtml(p.body) }} />
+      <p className="mt-[28px] text-center text-[15px] md:mt-[34px]">
+        Fitzgerald Classics Originals — my own build videos — live on{" "}
+        <a href={siteConfig.social.youtube} target="_blank" rel="noopener noreferrer" className="text-gold underline underline-offset-4 hover:text-white">
+          our YouTube channel
+        </a>
+        .
+      </p>
       <div className="mt-[40px] grid gap-[24px] sm:grid-cols-2 md:mt-[48px] lg:grid-cols-3">
         {getVideos().map((v) => (
           <Link key={v.slug} href={`/how-to-videos/${v.slug}`} className="group flex flex-col border border-white/10 bg-surface hover:border-gold/60">

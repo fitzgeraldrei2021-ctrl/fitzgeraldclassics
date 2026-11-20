@@ -1,6 +1,6 @@
 import { siteConfig } from "@site-config";
 
-// Round Facebook and Instagram icons in their brand colors.
+// Round Facebook, Instagram and YouTube icons in their brand colors.
 export default function SocialIcons({ size = 32 }: { size?: number }) {
   return (
     <div className="flex items-center gap-[23px]">
@@ -19,6 +19,13 @@ export default function SocialIcons({ size = 32 }: { size?: number }) {
           <rect x="9" y="9" width="14" height="14" rx="4" fill="none" stroke="#fff" strokeWidth="1.8" />
           <circle cx="16" cy="16" r="3.3" fill="none" stroke="#fff" strokeWidth="1.8" />
           <circle cx="20.2" cy="11.8" r="1" fill="#fff" />
+        </svg>
+      </a>
+      <a href={siteConfig.social.youtube} target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+        <svg width={size} height={size} viewBox="0 0 32 32" aria-hidden="true">
+          <circle cx="16" cy="16" r="16" fill="#FF0000" />
+          <rect x="8" y="11" width="16" height="10" rx="3" fill="#fff" />
+          <path fill="#FF0000" d="M14.5 14v4l4.5-2z" />
         </svg>
       </a>
     </div>

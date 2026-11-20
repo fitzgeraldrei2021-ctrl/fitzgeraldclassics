@@ -20,7 +20,7 @@ The good news is that almost all of it is preventable, and none of it takes expe
 
 Start here, because this is the one item that has to be right before anything goes wrong.
 
-For a home garage with classic cars, the extinguisher you want is a dry-chemical ABC unit — it handles ordinary combustibles, flammable liquids like gasoline, and electrical fires, which covers just about everything a garage can throw at you. A 5-pound unit is a sensible size for a home garage: big enough to matter, small enough that you will actually grab it and use it.
+For a home garage with classic cars, the extinguisher you want is a dry-chemical ABC unit — it handles ordinary combustibles, flammable liquids like gasoline, and electrical fires, which covers just about everything a garage can throw at you. A 5-pound unit is a sensible size for a home garage: big enough to matter, small enough that you will actually grab it and use it. The one I would point you to is the [Kidde Pro 340](https://www.amazon.com/dp/B0F4F4978J/?tag=fitzgeraldcla-20) — a rechargeable 5-pound ABC unit rated 3-A:40-B:C, with a gauge you can check at a glance and a wall hanger in the box.
 
 Mount it by the door you would leave through, at a height you can reach without stretching, and keep it visible. An extinguisher buried behind boxes, or sitting on the floor under a workbench, is decoration. The point is that you can put a hand on it on your way out, without going deeper into the garage to get it.
 

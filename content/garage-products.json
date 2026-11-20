@@ -79,7 +79,7 @@
   {
     "name": "Kicker 51KSC404 KS-Series 4-Inch Coaxial Speakers",
     "category": "Electrical & Diagnostic",
-    "description": "The front speakers in my '66 Corvette audio build: a 4-inch pair that tucks behind the factory dash grille, so the dash still looks stock. The car came with one lonely dash speaker — these, run off the KEY200.4 amp, are the fix.",
+    "description": "The front speakers in my '66 Corvette audio build: a 4-inch pair that tucks behind the factory dash grille, so the dash still looks stock. The car came with one lonely dash speaker \u2014 these, run off the KEY200.4 amp, are the fix.",
     "link": "https://www.amazon.com/dp/B0CRLFTF41/?tag=fitzgeraldcla-20",
     "image": "https://images-na.ssl-images-amazon.com/images/I/41wmS6L04AL.jpg"
   },
@@ -254,7 +254,7 @@
   {
     "name": "DEWALT DCF911B 20V MAX 1/2-Inch Impact Wrench (Tool Only)",
     "category": "Mechanical Tools",
-    "description": "A compact cordless 1/2-inch impact wrench, rated 250 ft-lb tightening and 400 ft-lb breakaway torque. Tool only — battery and charger are sold separately, so it makes the most sense if you are already on DEWALT 20V MAX.",
+    "description": "A compact cordless 1/2-inch impact wrench, rated 250 ft-lb tightening and 400 ft-lb breakaway torque. Tool only \u2014 battery and charger are sold separately, so it makes the most sense if you are already on DEWALT 20V MAX.",
     "link": "https://www.amazon.com/dp/B09HVXKJF6/?tag=fitzgeraldcla-20",
     "image": "https://elitetruck.com/cdn/shop/files/DCF911BImage1_798x798.jpg?v=1766435440"
   },
@@ -275,7 +275,7 @@
   {
     "name": "Battery Tender Junior 12V 750mA Charger & Maintainer",
     "category": "Battery & Storage",
-    "description": "A small 750mA 12V charger and maintainer for lead-acid batteries from 3 to 30Ah. Best suited to motorcycles, ATVs and smaller batteries — too small to recharge a full-size car battery quickly, but fine for keeping one topped up.",
+    "description": "A small 750mA 12V charger and maintainer for lead-acid batteries from 3 to 30Ah. Best suited to motorcycles, ATVs and smaller batteries \u2014 too small to recharge a full-size car battery quickly, but fine for keeping one topped up.",
     "link": "https://www.amazon.com/dp/B000CITK8S/?tag=fitzgeraldcla-20",
     "image": "https://m.media-amazon.com/images/I/61nddgtbkaL._AC_US1000_.jpg"
   },
@@ -289,8 +289,15 @@
   {
     "name": "Griot's Garage G9 Random Orbital Polisher 10901",
     "category": "Detailing & Preservation",
-    "description": "A 1000-watt dual-action random orbital polisher with a 6-inch backing plate. The random orbit makes it hard to burn paint, which is what you want in a first polisher. Bare tool — pads, compound and polish are sold separately.",
+    "description": "A 1000-watt dual-action random orbital polisher with a 6-inch backing plate. The random orbit makes it hard to burn paint, which is what you want in a first polisher. Bare tool \u2014 pads, compound and polish are sold separately.",
     "link": "https://www.amazon.com/dp/B089JFDKRZ/?tag=fitzgeraldcla-20",
     "image": "https://contentassets.autozone.com/product_image/USA/14318/FBWX/10901/10901-01.jpg"
+  },
+  {
+    "name": "Kidde Pro 340 Fire Extinguisher, 5 lb ABC (Rechargeable)",
+    "category": "Garage Essentials",
+    "description": "The extinguisher for the garage door: 5 lb of ABC dry chemical rated 3-A:40-B:C for wood, fuel and electrical fires. Rechargeable, with an easy-to-read pressure gauge and a wall hanger in the box.",
+    "link": "https://www.amazon.com/dp/B0F4F4978J/?tag=fitzgeraldcla-20",
+    "image": "https://m.media-amazon.com/images/I/41Sl+nykCcL._SL500_.jpg"
   }
 ]

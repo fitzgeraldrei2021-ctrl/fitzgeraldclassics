@@ -1,6 +1,6 @@
 {
   "seller": "fitzgerald-classics",
-  "checkedAt": "2026-11-16T15:39:03Z",
+  "checkedAt": "2026-11-23T15:31:09Z",
   "listings": [
     {
       "id": "920004746795",
@@ -78,17 +78,6 @@
       "condition": "Pre-Owned",
       "acceptsOffers": true,
       "sourceImage": "https://i.ebayimg.com/images/g/bSEAAeSwUjRqg7oj/s-l500.jpg"
-    },
-    {
-      "id": "398297907972",
-      "name": "58-67 Radio Speaker w/Transformer. 8 Ohms (reproduction)",
-      "link": "https://www.ebay.com/itm/398297907972",
-      "image": "/images/ebay/398297907972-280cb64925.jpg",
-      "price": 31.5,
-      "priceLabel": "$31.50",
-      "condition": "Pre-Owned",
-      "acceptsOffers": true,
-      "sourceImage": "https://i.ebayimg.com/images/g/WwQAAeSwijdqg7hX/s-l500.jpg"
     },
     {
       "id": "398304335620",

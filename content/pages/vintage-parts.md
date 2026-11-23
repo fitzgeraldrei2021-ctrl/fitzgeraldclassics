@@ -1,6 +1,6 @@
 ---
 seoTitle: Vintage Car Parts | Fitzgerald Classics
-seoDescription: Shop curated vintage car parts, NOS, and rare finds—browse our rotating inventory today.
+seoDescription: Original, NOS and hard-to-find vintage car parts for classic Corvettes, Mustangs, Galaxies and more — curated finds, linked to eBay. When a part's gone, it's gone.
 heroImage: /images/site/parts-hero-vintage-parts.png
 heroAlt: Vintage gauges, a chrome radio, and classic car trim pieces on a workbench
 headingLine1: Vintage &

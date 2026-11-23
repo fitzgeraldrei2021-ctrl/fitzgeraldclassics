@@ -4,6 +4,8 @@ import type { NextConfig } from "next";
 const redirects = [
   // The old eBay store page was combined into the Vintage Parts page.
   { source: "/ebay-ecommerce", destination: "/vintage-hard-to-find-parts" },
+  // The short address people naturally type for the Vintage Parts page.
+  { source: "/vintage-parts", destination: "/vintage-hard-to-find-parts" },
   { source: "/blank", destination: "/how-to-videos" },
   { source: "/blank-0cusaw", destination: "/" },
   { source: "/portfolio-collections/portfolio", destination: "/portfolio" },

@@ -265,6 +265,10 @@ This week’s lesson reminded me that preserving these automobiles isn’t just 
 
 It’s about preserving the knowledge that keeps them alive for the next generation.
 
+Hunting parts for your own project? Browse the [Vintage Parts](/vintage-hard-to-find-parts) page for hard-to-find pieces, and the [Garage](/fitzgerald-classics-garage) for the tools and supplies I recommend. Questions about your own build — try Ask Fitz, the chat in the corner of every page here. It answers from this site's own articles and guides first.
+
+I'm starting the Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it. Want in when it starts? [Send me a note](/contact) and I'll put you on the list.
+
 ## About the Author
 
 Dan Fitzgerald is the founder of Fitzgerald Classics, a Veteran-Owned publication dedicated to preserving America’s automotive heritage through honest restoration stories, practical technical guidance, and real-world experiences. Whether documenting a numbers-matching 1966 Corvette or bringing a 1957 Nash Metropolitan back to life, Dan believes every project offers an opportunity to learn, share, and inspire others to preserve the cars—and the stories—that shaped America.

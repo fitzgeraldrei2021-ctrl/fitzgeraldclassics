@@ -65,3 +65,7 @@ Tools should earn their place. We would rather own one reliable tool that gets u
 [Explore The Fitzgerald Classics Garage](/fitzgerald-classics-garage "button")
 
 Affiliate disclosure: Some links on Fitzgerald Classics may be affiliate links. If you make a qualifying purchase, Fitzgerald Classics may earn a commission at no additional cost to you. We recommend products because they fit the work—not because they pay a commission.
+
+Hunting parts for your own project? Browse the [Vintage Parts](/vintage-hard-to-find-parts) page for hard-to-find pieces, and the [Garage](/fitzgerald-classics-garage) for the tools and supplies I recommend. Questions about your own build — try Ask Fitz, the chat in the corner of every page here. It answers from this site's own articles and guides first.
+
+I'm starting the Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it. Want in when it starts? [Send me a note](/contact) and I'll put you on the list.

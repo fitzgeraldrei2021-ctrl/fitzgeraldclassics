@@ -29,6 +29,29 @@ export default async function PostPage({ params }: PageProps<"/post/[slug]">) {
   const post = await load(params);
   if (!post) notFound();
   const url = `${siteConfig.url}/post/${post.slug}`;
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BlogPosting",
+        headline: post.title,
+        description: post.seoDescription || post.excerpt,
+        image: post.coverImage ? `${siteConfig.url}${post.coverImage}` : undefined,
+        datePublished: post.date,
+        author: { "@type": "Person", name: post.author || "Dan Fitzgerald" },
+        publisher: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
+        mainEntityOfPage: url,
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: `${siteConfig.url}/` },
+          { "@type": "ListItem", position: 2, name: "Blog", item: `${siteConfig.url}/blog` },
+          { "@type": "ListItem", position: 3, name: post.title, item: url },
+        ],
+      },
+    ],
+  };
   const recent = getPosts().filter((p) => p.slug !== post.slug).slice(0, 3);
   const share = [
     { label: "Share on Facebook", href: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, icon: "M14 8h3V4h-3c-2.8 0-4 1.8-4 4.5V11H7v4h3v9h4v-9h3l1-4h-4V8.8c0-.5.3-.8 1-.8z" },
@@ -37,6 +60,7 @@ export default async function PostPage({ params }: PageProps<"/post/[slug]">) {
   ];
   return (
     <div className="mx-auto max-w-[980px] px-[20px] pb-[80px] pt-[32px] md:pt-[38px]">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className="hidden md:block">
         <BlogTabs />
       </div>

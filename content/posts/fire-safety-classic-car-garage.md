@@ -119,6 +119,10 @@ Next Friday:
 
 We will look at what actually holds a heavy old car safely in the air — jack capacity, stand placement on old frames, and the chocks and habits that keep a car from moving while you are underneath it.
 
+Hunting parts for your own project? Browse the [Vintage Parts](/vintage-hard-to-find-parts) page for hard-to-find pieces, and the [Garage](/fitzgerald-classics-garage) for the tools and supplies I recommend. Questions about your own build — try Ask Fitz, the chat in the corner of every page here. It answers from this site's own articles and guides first.
+
+I'm starting the Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it. Want in when it starts? [Send me a note](/contact) and I'll put you on the list.
+
 ## About the Author
 
 **Dan Fitzgerald** is the founder of **Fitzgerald Classics**, a Veteran-Owned automotive publication dedicated to preserving America's automotive heritage through authentic restoration stories, practical technical guidance and hands-on experience.

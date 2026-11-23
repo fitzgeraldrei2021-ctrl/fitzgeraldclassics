@@ -273,6 +273,10 @@ Next Friday, the original Fitzgerald Classics editorial roadmap continues with:
 
 We will look at photo logs, casting and date codes, receipts, judging references, parts records, restoration binders and digital archives—and how careful documentation protects a classic car's authenticity, history and value.
 
+Hunting parts for your own project? Browse the [Vintage Parts](/vintage-hard-to-find-parts) page for hard-to-find pieces, and the [Garage](/fitzgerald-classics-garage) for the tools and supplies I recommend. Questions about your own build — try Ask Fitz, the chat in the corner of every page here. It answers from this site's own articles and guides first.
+
+I'm starting the Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it. Want in when it starts? [Send me a note](/contact) and I'll put you on the list.
+
 ## About the Author
 
 **Dan Fitzgerald** is the founder of **Fitzgerald Classics**, a Veteran-Owned automotive publication dedicated to preserving America's automotive heritage through authentic restoration stories, practical technical guidance and hands-on experience.

@@ -21,17 +21,19 @@ export default function SiteFooter() {
       <div className="mt-[28px] flex justify-end md:-mt-[2px] md:mr-[130px]">
         <SocialIcons />
       </div>
-      <p className="mt-[28px] text-[16px] leading-[1.6] md:mt-[34px] md:text-[18px]">
-        The Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it.{" "}
+      <div className="mt-[28px] border border-gold/60 px-[20px] py-[18px] md:mt-[34px] md:px-[28px] md:py-[22px]">
+        <p className="text-[18px] leading-[1.6] md:text-[20px]">
+          The Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it.
+        </p>
         <a
           href="https://buttondown.com/fitzgeraldclassics"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-gold underline underline-offset-4"
+          className="mt-[14px] inline-block bg-gold px-[20px] py-[11px] font-bold text-ink"
         >
           Join the Garage Letter
         </a>
-      </p>
+      </div>
       <hr className="mt-[28px] border-cream/90 md:mt-[34px]" />
       <p className="mt-[24px] text-[14px] leading-[1.6] text-muted md:mt-[18px] md:text-[15.75px]">{copyright}</p>
     </footer>

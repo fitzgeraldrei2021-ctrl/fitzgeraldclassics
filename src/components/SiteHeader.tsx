@@ -4,7 +4,8 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { siteConfig } from "@site-config";
 
-// Fixed top bar with a "MENU" button that opens a slide-out drawer on the right.
+// Fixed top bar with a labeled "MENU" button (visible at every screen size,
+// Dan's Option 1 pick, 2026-11-23) that opens a slide-out drawer on the right.
 export default function SiteHeader() {
   const [open, setOpen] = useState(false);
 
@@ -24,9 +25,9 @@ export default function SiteHeader() {
             onClick={() => setOpen(true)}
             aria-label="Open menu"
             aria-expanded={open}
-            className="flex items-center gap-[22px] text-cream md:text-gold"
+            className="flex min-h-[44px] items-center gap-[16px] px-[16px] text-gold"
           >
-            <span className="hidden text-[12px] uppercase tracking-[0.13em] md:inline">Menu</span>
+            <span className="text-[12px] uppercase tracking-[0.13em]">Menu</span>
             <HamburgerIcon />
           </button>
         </div>
@@ -68,8 +69,8 @@ export default function SiteHeader() {
 
 function HamburgerIcon() {
   return (
-    <svg width="20" height="14" viewBox="0 0 20 14" fill="none" stroke="currentColor" strokeWidth="1.2" aria-hidden="true">
-      <path d="M0 1h20M0 7h20M0 13h20" />
+    <svg width="22" height="16" viewBox="0 0 22 16" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <path d="M0 1h22M0 8h22M0 15h22" />
     </svg>
   );
 }

@@ -56,4 +56,4 @@ Affiliate disclosure: Some links on Fitzgerald Classics may be affiliate links. 
 
 Hunting parts for your own project? Browse the [Vintage Parts](/vintage-hard-to-find-parts) page for hard-to-find pieces, and the [Garage](/fitzgerald-classics-garage) for the tools and supplies I recommend. Questions about your own build — try Ask Fitz, the chat in the corner of every page here. It answers from this site's own articles and guides first.
 
-I'm starting the Garage Letter — one email a month with the new guides, the parts that just landed, and what broke and what fixed it. Want in when it starts? [Send me a note](/contact) and I'll put you on the list.
+The Garage Letter is my one email a month — the new guides, the parts that just landed, and what broke and what fixed it. [Join the Garage Letter](https://buttondown.com/fitzgeraldclassics) if you'd like to ride along.

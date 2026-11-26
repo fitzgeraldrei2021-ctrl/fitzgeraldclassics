@@ -34,6 +34,7 @@ export const siteConfig = {
     facebook: "https://www.facebook.com/profile.php?id=61594520112307",
     instagram: "https://instagram.com/fitzgeraldclassics",
     youtube: "https://www.youtube.com/@FitzgeraldClassics",
+    tiktok: "https://www.tiktok.com/@fitzgeraldclassics",
   },
 
   // "{year}" is replaced with the current year.

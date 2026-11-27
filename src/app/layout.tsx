@@ -6,6 +6,7 @@ import { siteConfig } from "@site-config";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import AskFitz from "@/components/AskFitz";
+import ExitPopup from "@/components/ExitPopup";
 import "./globals.css";
 
 // Font files are stored in the repo (src/fonts) so the site builds without internet access.
@@ -50,6 +51,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <main className="flex-1 pt-[48px] md:pt-[58px]">{children}</main>
         <SiteFooter />
         <AskFitz />
+        <ExitPopup />
         <Script src="/_vercel/insights/script.js" strategy="afterInteractive" />
       </body>
     </html>

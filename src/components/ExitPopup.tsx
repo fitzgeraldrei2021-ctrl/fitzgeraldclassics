@@ -53,6 +53,8 @@ export default function ExitPopup() {
 
     // Mobile stand-in for exit intent: after reading well down the page,
     // a fast scroll back toward the top usually means "I'm done here".
+    // Second trigger (added 2026-11-27, Dan's ask): on a long page,
+    // reading nearly to the end counts as "finished" too.
     const onScroll = () => {
       const now = Date.now();
       const y = window.scrollY;
@@ -60,6 +62,10 @@ export default function ExitPopup() {
       const rising = lastScrollY - y;
       const elapsed = now - lastScrollAt;
       if (maxScrollY > 600 && elapsed > 0 && rising / elapsed > 2.5 && y < 300) {
+        show();
+      }
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+      if (scrollable > window.innerHeight * 2 && y >= scrollable * 0.9) {
         show();
       }
       lastScrollY = y;
